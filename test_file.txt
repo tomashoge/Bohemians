@@ -2,6 +2,7 @@ Hi everyone!
 <<<<<<< HEAD
 blbla
 asd
+text
 =======
 123
 blbla
